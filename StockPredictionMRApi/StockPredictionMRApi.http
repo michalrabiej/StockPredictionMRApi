@@ -1,0 +1,6 @@
+@StockPredictionMRApi_HostAddress = http://localhost:5230
+
+GET {{StockPredictionMRApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
