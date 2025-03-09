@@ -10,16 +10,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a20c1899-82de-41a7-9b66-13bff34608e3" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/../StockPredictionFrontend-master/angular.json" beforeDir="false" afterPath="$PROJECT_DIR$/../StockPredictionFrontend-master/angular.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../StockPredictionFrontend-master/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/../StockPredictionFrontend-master/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../StockPredictionFrontend-master/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../StockPredictionFrontend-master/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../StockPredictionFrontend-master/src/app/app.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/../StockPredictionFrontend-master/src/app/app.component.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../StockPredictionFrontend-master/src/app/app.component.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../StockPredictionFrontend-master/src/app/app.component.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../StockPredictionFrontend-master/src/app/app.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../StockPredictionFrontend-master/src/app/app.component.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../StockPredictionFrontend-master/src/app/app.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../StockPredictionFrontend-master/src/app/app.module.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../StockPredictionFrontend-master/src/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../StockPredictionFrontend-master/src/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../StockPredictionFrontend-master/src/main.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../StockPredictionFrontend-master/src/main.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../StockPredictionFrontend-master/src/styles.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../StockPredictionFrontend-master/src/styles.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.github/workflows/docker-image.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.github/workflows/docker-image.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.StockPredictionMRApi/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.StockPredictionMRApi/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,8 +22,20 @@
     <option name="firstShow" value="false" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../StockPredictionFrontend-master" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "michalrabiej"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/michalrabiej/StockPredictionMRApi.git",
+    "accountId": "433f82d0-c10a-41e3-aa6e-f0a026a9755a"
+  }
+}]]></component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/StockPredictionMRApi/Controllers/StockController.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/StockPredictionMRApi/Program.cs" root0="FORCE_HIGHLIGHTING" />
@@ -51,6 +55,7 @@
   &quot;associatedIndex&quot;: 1
 }</component>
   <component name="ProjectId" id="2qPOcchjDSiaLZrZlOYw9N2GMUQ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="autoscrollFromSource" value="true" />
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -62,7 +67,7 @@
     "Docker.StockPredictionMRApi/Dockerfile: Compose Deployment.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "/Users/michalrabiej/Documents/StockPrediction/StockPredictionMRApi-master/StockPredictionMRApi.sln",
+    "last_opened_file_path": "/Users/michalrabiej/Documents/StockPrediction/StockPredictionMRApi-master",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -137,7 +142,7 @@
       <workItem from="1734878434905" duration="242000" />
       <workItem from="1734878686794" duration="1986000" />
       <workItem from="1737302620710" duration="19413000" />
-      <workItem from="1737894722959" duration="35413000" />
+      <workItem from="1737894722959" duration="39688000" />
     </task>
     <servers />
   </component>
